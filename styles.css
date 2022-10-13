@@ -768,6 +768,9 @@ footer ul li a {
   .projects-grid {
     justify-content: space-between;
   }
+  .scroll-down-icon {
+    display: none;
+  }
 }
 @media (max-width: 850px) {
   footer {
@@ -850,6 +853,9 @@ footer ul li a {
   }
   .project-title {
     font-size: 30px;
+  }
+  .hero-name {
+    font-size: 40px;
   }
 }
 @media (max-width: 391px) {
